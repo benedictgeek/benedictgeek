@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @benedictgeek
 - 👀 I’m interested in React, NodeJs
-<!-- - 🌱 I’m currently learning devOps -->
 - 💞️ I’m looking to collaborate on amazing projects
 - 📫 You can reach me on twitter @IamD_O_B or e-mail olushola251@gmail.com 
 
